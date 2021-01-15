@@ -1,4 +1,7 @@
+info\ahaha\bedwars\API\event\WBWGameStartEvent.class
 info\ahaha\bedwars\API\Team.class
+info\ahaha\bedwars\API\event\PlayerRespawnByBedwarsEvent.class
+info\ahaha\bedwars\API\event\WBWGameEndEvent.class
+info\ahaha\bedwars\API\Game.class
 info\ahaha\bedwars\API\BedwarsAPI.class
 info\ahaha\bedwars\API\World.class
-info\ahaha\bedwars\API\Game.class
